@@ -1,0 +1,7 @@
+---
+name: PluginStructure
+version: 0.0.1
+main: PluginOwner\PluginStructure\Main
+api: 4.0.0
+src-namespace-prefix: PluginOwner\PluginStructure
+...
