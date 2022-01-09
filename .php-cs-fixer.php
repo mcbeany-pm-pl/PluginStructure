@@ -43,7 +43,6 @@ return (new PhpCsFixer\Config)
 		],
 		'no_closing_tag' => true,
 		'no_empty_phpdoc' => true,
-		'no_extra_blank_lines' => true,
 		'no_superfluous_phpdoc_tags' => [
 			'allow_mixed' => true,
 		],
